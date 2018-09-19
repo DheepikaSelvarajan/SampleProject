@@ -1,4 +1,3 @@
 echo "Welcome"
-
-echo "Master"
+echo "Develop"
 exit
