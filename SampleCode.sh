@@ -1,3 +1,3 @@
 echo "Welcome"
-echo "HELLO"
+echo "HI"
 exit
